@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "image":"https://i.ibb.co/fXtnKMR/woman1.png",
+      "price": "$ 348,00",
+      "name": "Green Blouse",
+      "new": true,
+      "title":"Woman, Dresses"
+    },
+
+    {
+      "id": 2,
+      "image":"https://i.ibb.co/9H8xsQj/woman2.png",
+      "price": "$ 89,99",
+      "name": "Salmon Shirt",
+      "new": false,
+      "title":"Woman, Dresses"
+    },
+
+    {
+        "id": 3,
+        "image":"https://i.ibb.co/CbPCkZm/woman3.png",
+        "price": "$ 552,00",
+        "name": "Red Dress",
+        "new": false,
+        "title":"Woman, Dresses"
+      },
+      {
+        "id": 4,
+        "image":"https://i.ibb.co/stMcdJF/woman4.png",
+        "price": "$ 375,00",
+        "newPrice":"$ 296,99",
+        "name": "Black T-Shirt & Jeans",
+        "new": false,
+        "title":"Woman, Dresses"
+      }
+  ]

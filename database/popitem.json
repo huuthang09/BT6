@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "image":"https://i.ibb.co/zJtxWpS/item1.png",
+      "price": "$ 249,00",
+      "numprice": 249.00,
+      "name": "Pink Shirt",
+      "new": false,
+      "title":"Popular Products"
+    },
+
+    {
+      "id": 2,
+      "image":"https://i.ibb.co/4jmMPrt/item2.png",
+      "price": "$ 50,00",
+      "numprice": 50.00,
+      "name": "Checked Shirt",
+      "new": false ,
+      "title":"Popular Products"
+    },
+
+    {
+        "id": 3,
+        "image":"https://i.ibb.co/4sL5vpR/item3.png",
+        "price": "$ 181,99",
+        "numprice": 181.99,
+        "name": "Red Polo Shirt",
+        "new": false,
+        "title":"Popular Products"
+      },
+      {
+        "id": 4,
+        "image":"https://i.ibb.co/YkS0zzr/item4.png",
+        "price": "$ 372,00",
+        "numprice": 372.00,
+        "name": "Awesome Dress",
+        "new": false,
+        "title":"Popular Products"
+      }
+  ]
+
+
